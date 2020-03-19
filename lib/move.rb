@@ -11,3 +11,6 @@ def input_to_index(input)
   num = input.to_i
   puts num - 1
 end
+
+
+input_to_index("5")
