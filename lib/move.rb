@@ -22,4 +22,4 @@ end
 
 
 board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
-move(board, index, move)
+move(board, 4, move = "X")
